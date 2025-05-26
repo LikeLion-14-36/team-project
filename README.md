@@ -1,2 +1,7 @@
-# team-project
-조직 계정에서 저장소 생성과 이슈 및 마일스톤 생성 연습 저장소
+###### Likelion Front-end Bootcamp
+
+# UI Project(CSS)
+
+멋쟁이 사자처럼 프론트엔드 부트캠프 14기💕
+
+14기 여러분의 첫 프로젝트를 응원합니다. 화이팅 👏‼️
